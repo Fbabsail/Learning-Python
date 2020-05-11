@@ -1,4 +1,4 @@
-weight=float(input('How much do you way in kilograms? '))
-height=int(input('How tall are you in meteres? '))
-BMI=round(weight/(height*height, 1))
-print ('Your BMI is: ', BMI)
+wheight=input("How much do you wheigh in kilograms? ")
+length=input('How tall are you in centimeters? ')
+BMI=float(wheight)/((float(length)**2)/10000)
+print(f"Your BMI is:  {float(BMI)}")
