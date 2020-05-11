@@ -16,20 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac05b7ef-aed6-4ba5-8a22-9028e0812497" name="Default Changelist" comment="New programs">
-      <change afterPath="$PROJECT_DIR$/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Progress" beforeDir="false" afterPath="$PROJECT_DIR$/Progress" afterDir="false" />
-    </list>
+    <list default="true" id="ac05b7ef-aed6-4ba5-8a22-9028e0812497" name="Default Changelist" comment="New programs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +30,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Fbabsail" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1blIaUVqceD7P6mYdDBuEBB6Yrm" />
   <component name="ProjectLevelVcsManager">
@@ -198,7 +191,7 @@
       <workItem from="1589201438438" duration="6364000" />
       <workItem from="1589209367097" duration="68000" />
       <workItem from="1589210030514" duration="2369000" />
-      <workItem from="1589219029732" duration="7392000" />
+      <workItem from="1589219029732" duration="7757000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1589201946300</created>
@@ -221,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589212393975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commitmint">
+      <created>1589233387206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589233387206</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +257,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="New programs" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="commitmint" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitmint" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1589202495636">
@@ -284,10 +285,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589223957161" />
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1589213045424">
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1589233390058">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589213045424" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589233390058" />
     <state x="590" y="301" key="cloudConfig.SelfSettingsDialog" timestamp="1589209399140">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
